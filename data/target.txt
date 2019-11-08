@@ -1,0 +1,101 @@
+Cards	1	0	30	2;13
+Toss Pillows;Window Curtains	2	0	42	1;3;14
+Multi Piece Set	3	0	54	2;4;15
+Bath Decor;Bath Storage	4	0	66	3;5;16
+Organizers;Storage	5	0	78	4;6;17
+Fans;Book Cases	6	0	90	5;7;18
+Coffee Machines	7	5	134	6;8;10
+	8	5	156	7;9
+	9	5	177	8;12
+Plates;Bowls;Glasses;Cooking Equipment	10	13	134	7;11;18;19
+	11	13	156	10;12
+	12	13	177	9;11;21
+Picture Frames	13	14	30	1;14;26
+Area Rugs;Doormats	14	14	42	2;27
+Pillows;Mattress Pads	15	14	54	3;28
+Mugs;Hangers;Space Bags	16	14	66	4;29
+Tools;Glue;Tape	17	14	78	5;30
+Gift Wraps	18	14	90	6;10;19;31
+Beverages	19	16	134	10;18;20;22
+	20	16	156	19;21
+	21	16	177	12;20;24
+Breakfast Meat;Berries;Salad;Fresh Vegetables	22	24	134	19;23;31;32
+	23	24	156	22;24
+	24	24	177	21;23;34
+Entrance	25	28	0	26;35
+Lamp Shades;Mirrors;Candles	26	28	30	13;25;27;35
+Bedding;Quilts	27	28	42	26;28
+Bath Rugs;Towels	28	28	54	27;28
+Laundry Baskets;Trash Cans	29	28	66	28;30
+Light Bulb;Motor Oil	30	28	78	29;31;57
+Chocolate	31	28	90	18;22;30;32
+Fresh Produce	32	29	134	22;31
+	33	29	156	32;34
+	34	29	177	24;33;37;40
+Scissors;Scales	35	32	5	25;26;44
+	36	32	6	35
+Lunch Meat;Lunchables	37	32	134	32;39;41
+	38	32	135	37
+	39	32	156	37;40
+	40	32	177	34;39;43
+Frozen Entries	41	35	134	37;45;42
+	42	35	156	43;41
+	43	35	177	40;47;42
+Notebooks;Binders;Folders;Mailing	44	40	5	51;36
+Bread;Peanut Butter;Jelly	45	40	134	46;41;48
+	46	40	156	47;45
+	47	40	177	50;43;46
+Sauce;Pizza	48	43	134	49;52;45
+	49	43	156	50;48
+	50	43	177	54;47;49
+Office Supplies;Poster Board;Bulletin Boards	51	48	5	58;44
+	52	48	134	53;48;59
+	53	48	156	54;52
+Soup;Rice;Beans	54	48	177	61;50;53
+	55	48	178	54
+	56	48	179	54
+Womens Clothes	57	50	74	58;31;68;65
+Art Supplies	58	51	5	57;68;26
+	59	51	134	60;52;62
+	60	51	156	61;59
+Cereal;Baking Mixes	61	51	177	64;56;54
+	62	56	134	63;65;59
+	63	56	156	64;62
+Coffee;Tea	64	56	177	67;61;63
+	65	59	134	66;69;62;57;68
+	66	59	156	67;65;70
+Alcohol	67	59	177	66;64;71
+Mens Clothes	68	75	74	91;69;84;65;58;57
+	69	75	134	70;72;65;68
+	70	75	156	71;69
+Crackers;Trail Mix	71	75	177	74;67;70
+	72	78	134	73;75;69
+	73	78	156	74;72
+Chips;Popcorn	74	78	177	77;71;73
+	75	83	134	76;78;72
+	76	83	156	77;75
+Breakfast Bars	77	83	177	76;80;74
+	78	86	134	79;81;75
+	79	86	156	80;78
+	80	86	177	83;77;79
+	81	91	134	82;84;78
+	82	91	156	83;81
+Paper Towels;Trash Bags	83	91	177	86;80;82
+	84	94	134	85;68;91;81
+	85	94	156	84;86
+Cleaning Supplies;Sponges	86	94	177	85;83
+Pet Food;Toiletries	87	96	62	86;88;68;92
+Baby Products;Cold Medicine;Allergy Medicine	88	96	72	87;89
+Toothpaste;Oral Hygiene	89	96	82	88;90
+Travel Accessories;Cycling	90	96	92	91;89
+Bluetooth	91	96	102	84;68;90;96
+Hygiene Products	92	104	62	97;87;93
+Sex Safety;Pain Medication;First Aid	93	104	72	92;94
+Body Wash;Hand Sanitizer	94	104	82	93;95
+Outdoor;Fitness	95	104	92	96;94
+Video Games	96	104	102	91;101;95
+Stomach Medicine;Eye Care;Ear Care	97	112	62	98;92
+Feminine Care	98	112	72	99;97
+Shaving;Deoderant	99	112	82	100;98
+Charging;Phones;Cameras;Smart Home;Headphones;Apple	100	112	92	101;99
+Ethernet	101	112	102	100;95
