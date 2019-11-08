@@ -2,15 +2,15 @@
 clear
 
 % Goals
-goals=[97 6; 20 80];
+goals=[97 6];
 
 %%% Generating a MAP
 %1 represent an object that the path cannot penetrate, zero is a free path
 MAP = loadData();
 
 %Start Positions
-StartX = 50;
-StartY = 20;
+StartX= 1;
+StartY=1;
 
 Connecting_Distance=8; %Avoid to high values Connecting_Distances for reasonable runtimes. 
 
